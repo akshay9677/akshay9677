@@ -3,7 +3,7 @@
 ### About Me 🤙
  Programmer 💻, Electrical Engineer ⚡ working as a Software Developer @Facilio Inc 🏟️, Javascript Enthusiast, Passionate mobile / web developer and I can create responsive webapps and scalable mobile apps using the latest technologies available.
 
-### I primarily work on  🎯
+### I specialize in  🎯
 - JS
 - React
 - Vue
