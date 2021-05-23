@@ -11,3 +11,5 @@
 - MongoDb
 
 I sometimes write tech stuff in [my blog](https://akshay-personal-web.netlify.app/blogs) 
+![Visitor Count](https://profile-counter.glitch.me/akshay9677/count.svg)
+
