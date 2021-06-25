@@ -5,7 +5,7 @@
 
 ### Streaks
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshay9677)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshay9677&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ### About Me 🤙
