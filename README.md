@@ -25,6 +25,6 @@
 
 
 
-I sometimes write tech stuff in [my blog](https://akshay-personal-web.netlify.app/blogs) 
+I sometimes write tech stuff in [my blog](https://akshaykannan.tech/blogs) 
 
 
