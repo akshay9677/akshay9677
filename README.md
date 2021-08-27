@@ -25,6 +25,6 @@
 
 
 
-I sometimes write tech stuff in [my blog](https://akshaykannan.tech/blogs) 
+I sometimes write tech stuff in [my blog](https://akshaykannan.tech/blog) 
 
 
