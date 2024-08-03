@@ -1,4 +1,4 @@
-## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ,  I am Akshay
+## Hey,  I am Akshay
 
 I am a front-end developer & a javascript enthusiast, working as a core front-end engineer [@Facilio](https://facilio.com/). I explore and occasionally write about front-end build tools, frameworks and design systems.
 
